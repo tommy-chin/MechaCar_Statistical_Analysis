@@ -3,6 +3,7 @@
 ## Linear Regression to Predict MPG
 ### Linear Regression on MPG
 ![Deliverable1.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable1.PNG)
+
 The vehicle length and ground clearance variables both provided a non-random amount of variance to the mpg values in the dataset due to the both of them having an extremely small p-value in comparison to the other variables. The smaller the p-value, the higher the level of significance.
 ## Summary Statistics on Suspension Coils
 ### Total Summary

@@ -14,3 +14,4 @@
 ![TTest on Lot 2.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%202.PNG)
 ### Lot 3 T-Test
 ![TTest on Lot 3.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%203.PNG)
+## Study Design: MechaCar vs Competition

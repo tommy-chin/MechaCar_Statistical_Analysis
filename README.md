@@ -6,7 +6,11 @@
 ![TotalSummary.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TotalSummary.PNG)
 ![LotSummary.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/LotSummary.PNG)
 ## T-Tests on Suspension Coils
+T-Test on All Three Lots
 ![TTest on Whole Lot.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Whole%20Lot.PNG)
+Lot 1 T-Test
 ![TTest on Lot 1.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%201.PNG)
+Lot 2 T-Test
 ![TTest on Lot 2.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%202.PNG)
+Lot 3 T-Test
 ![TTest on Lot 3.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%203.PNG)

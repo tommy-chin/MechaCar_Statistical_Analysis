@@ -29,4 +29,9 @@ The purpose of these summary statistics is to see whether or not the design spec
 ![TTest on Lot 2.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%202.PNG)
 ### Lot 3 T-Test
 ![TTest on Lot 3.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Lot%203.PNG)
+
+The T-Tests listed above show the statistical differences, if there are any, from the population mean of 1,500 PSI. The first T-Test is based on the combined three lots while the other T-Tests are based on each individual lot. 
+
+Each null hypothesis for these T-Tests are that the PSI levels are not statistically different from the population mean of 1,500 while the alternative hypothesis of each T-Test is that the PSI levels are statistically different from the population mean of 1,500. Judging from a 95% significance level, the T-Test on the combined lots does not reject the null hypothesis due to the p-value being 0.06028. The same can be said about lots 1 and 2 with p-values of 1 and 0.6072 respectively. However, lot 3 rejects the null hypothesis due to the p-value being 0.04168. Therefore, out of the four T-Tests conducted, lot 3 is the only group that has a statistical difference from the population mean of 1,500 PSI. 
+
 ## Study Design: MechaCar vs Competition

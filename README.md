@@ -16,9 +16,10 @@ The linear regression model predicts the mpg of MechaCar prototypes quite effect
 ![TotalSummary.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TotalSummary.PNG)
 ### Lot Summary
 ![LotSummary.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/LotSummary.PNG)
-The two summary statistics listed above show the mean, median, variance, and standard deviation for the PSI values of suspension coils. The Total Summary chart shows the summary for the combined three lots in the suspension coil dataset while the Lot Summary chart shows the summary for each individual lot. 
 
-The purpose of these summary statistics is to see whether or not the design specifications for the MechaCar suspension coils have variances that exceed 100 pounds per square inch or not. The current manufacturing data 
+The two summary statistics listed above show the mean, median, variance, and standard deviation for the PSI values of MechaCar suspension coils. The Total Summary chart shows the summary for the combined three lots in the suspension coil dataset while the Lot Summary chart shows the summary for each individual lot. 
+
+The purpose of these summary statistics is to see whether or not the design specifications for the MechaCar suspension coils have variances that exceed 100 PSI. The current manufacturing data for the three combined lots meets this design specification since the variance is 76.23459 PSI which does not exceed the 100 PSI threshhold. The current manufacturing data for lot 1 and lot 2 meet this design specification with variances of 1.146024 PSI and 10.131511 PSI respectively. However, lot 3 does not meet this design specification with its variance of 220.010563 PSI. 
 ## T-Tests on Suspension Coils
 ### T-Test on All Three Lots
 ![TTest on Whole Lot.PNG](https://github.com/tommy-chin/MechaCar_Statistical_Analysis/blob/main/Images/TTest%20on%20Whole%20Lot.PNG)
